@@ -1,0 +1,2 @@
+Just init from andriod
+
