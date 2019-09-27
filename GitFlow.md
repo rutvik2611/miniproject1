@@ -40,6 +40,7 @@ Usage: git add \*
 
 This command adds one or more to the staging area.
 
+![Image of Git Config](/Dependency/git_add.png)
 **git commit**
 
 Usage: git commit -m &quot;[Type in the commit message]&quot;
@@ -50,6 +51,7 @@ Usage: git commit -a
 
 This command commits any files you&#39;ve added with the git add command and also commits any files you&#39;ve changed since then.
 
+![Image of Git Commit](/Dependency/git_commit.png)
 **git diff**
 
 Usage: git diff
@@ -163,6 +165,8 @@ This command pushes all branches to your remote repository.
 Usage: git push [variable name] :[branch name]
 
 This command deletes a branch on your remote repository.
+
+![Image of Git Push](/Dependency/git_push.png)
 
 **git pull**
 
