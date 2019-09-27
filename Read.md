@@ -2,9 +2,9 @@
 
 ## **To DO List**
 
-- [*] Make a new Text File Name: **Vi- Detailed Description**
+- [X] Make a new Text File Name: **Vi- Detailed Description**
 - [ ] Make a new Text File Name: **Linux and the basic commands**
-- [*] Make a new Text File Name: **gitFlow**
+- [X] Make a new Text File Name: **gitFlow**
 - [ ] Keep Adding to this list
 
 
