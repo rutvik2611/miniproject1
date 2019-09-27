@@ -1,4 +1,5 @@
 # VI-Detailed Description
+![Image of Yaktocat](/Dependency/Vi1.png)
 
 ## History
 
@@ -14,7 +15,7 @@ sudo apt-get update sudo apt-get install vim
 
 To launch the VI Editor -Open Terminal (CLI) and type:
 
-vi \&lt;filename\_NEW\&gt; or \&lt;filename\_EXISTING\&gt;
+vi <filename\_NEW> or <filename\_EXISTING>
 
 
 
@@ -37,17 +38,17 @@ R Replace (Esc) - typeover
 
 Changes during insert mode
 
-\&lt;ctrl\&gt;h   - Back one character
+<ctrl>h   - Back one character
 
-\&lt;ctrl\&gt;w  -Back one word
+<ctrl>w  -Back one word
 
-\&lt;ctrl\&gt;u   -Back to beginning of insert
-
-
+<ctrl>u   -Back to beginning of insert
 
 
 
-# File management commands
+
+
+## File management commands
 
 :w - name Write edit buffer to file name
 
@@ -57,27 +58,27 @@ Changes during insert mode
 
 ZZ - Same as :wq
 
-:sh - Execute shell commands (\&lt;ctrl\&gt;d)
+:sh - Execute shell commands (<ctrl>d)
 
 
 
-# Window motions
+## Window motions
 
-\&lt;ctrl\&gt;d - Scroll down (half a screen)
+<ctrl\>d - Scroll down (half a screen)
 
-\&lt;ctrl\&gt;u - Scroll up (half a screen)
+<ctrl>u - Scroll up (half a screen)
 
-\&lt;ctrl\&gt;f - Page forward
+<ctrl>f - Page forward
 
-\&lt;ctrl\&gt;b - Page backward
+<ctrl>b - Page backward
 
 /string - Search forward
 
 ?string - Search backward
 
-\&lt;ctrl\&gt;l-  Redraw screen
+<ctrl>l-  Redraw screen
 
-\&lt;ctrl\&gt;g - Display current line number and
+<ctrl>g - Display current line number and
 
 file information
 
@@ -91,7 +92,7 @@ nG - Go to line n
 
 :n Go to line n
 
-z\&lt;CR\&gt; - Reposition window: cursor at top
+z<CR> - Reposition window: cursor at top
 
 z. - Reposition window: cursor in middle
 
@@ -101,15 +102,15 @@ z- - Reposition window: cursor at bottom
 
 
 
-External Image of Vi Command:
+## External Image of Vi Command:
 
 
+![Image of Vi-Command](https://https://downloads.gosquared.com/help_sheets/10/VI-Help-Sheet-large.jpg)
 
 
+## Credit:
 
-# Credit:
 
-[
 # https://en.wikipedia.org/wiki/Vi
 ](https://en.wikipedia.org/wiki/Vi)
 
