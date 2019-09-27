@@ -105,13 +105,12 @@ z- - Reposition window: cursor at bottom
 ## External Image of Vi Command:
 
 
-![Image of Vi-Command](https://https://downloads.gosquared.com/help_sheets/10/VI-Help-Sheet-large.jpg)
+![Image of Vi-Command](https://downloads.gosquared.com/help_sheets/10/VI-Help-Sheet-large.jpg)
 
 
 ## Credit:
 
 
-# https://en.wikipedia.org/wiki/Vi
-](https://en.wikipedia.org/wiki/Vi)
+### https://en.wikipedia.org/wiki/Vi
 
-# http://www.atmos.albany.edu/daes/atmclasses/atm350/vi\_cheat\_sheet.pdf
+### http://www.atmos.albany.edu/daes/atmclasses/atm350/vi\_cheat\_sheet.pdf
