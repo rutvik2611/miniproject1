@@ -11,11 +11,12 @@ GitFlow is a branching model for Git, created by Vincent Driessen. It has attrac
 
 **git config**
 
-Usage: git config –global user.name &quot;[name]&quot;
+Usage: git config –-global user.name &quot;[name]&quot;
 
-Usage: git config –global user.email &quot;[email address]&quot;
+Usage: git config –-global user.email &quot;[email address]&quot;
 
 This command sets the author name and email address respectively to be used with your commits.
+![Image of Git Config](/Dependency/git_config.png)
 
 **git init**
 
