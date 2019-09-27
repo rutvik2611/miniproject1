@@ -114,3 +114,7 @@ z- - Reposition window: cursor at bottom
 ### https://en.wikipedia.org/wiki/Vi
 
 ### http://www.atmos.albany.edu/daes/atmclasses/atm350/vi\_cheat\_sheet.pdf
+
+Made By:
+Rutvik Patel
+Chinedu Nnaji
