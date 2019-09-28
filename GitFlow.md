@@ -1,11 +1,23 @@
-#
 # GitFlow
 
 
 
+
+
+**What is Git?**
+
+In a nutshell, Git is a Version Control System (VCS). Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 **What Is GitFlow?**
 
 GitFlow is a branching model for Git, created by Vincent Driessen. It has attracted a lot of attention because it is very well suited to collaboration and scaling the development team.
+
+**What is Version Control System (VCS)?**
+Version control system is a system that records changes to a file or set of files over time so that you can recall specific versions later by using git command or various git tools available online. Suppose you are a developer and want to keep every version of code or after some particular tasks completion a Version Control System (VCS) is very useful tool. It allows you to revert files back to a previous state, compare changes over time, it allow you to take the other developer code changes using git command, see who modified the files over the time, who has done more number of lines of code, various type of statistics on the repository, who has done the code with bug and when, and many more, basically you can entirely do the tracking of the files over the time and go back to any previous changes.
+
+**How does Git record changes over the time work?**
+Git story each commit a full copy of all the files, except that, for the content already present in the Git repo, the snapshot will simply point to said content rather than duplicate it. That also means that several files with the same content are stored only once. So a snapshot is basically a commit, referring to the content of a directory structure.
+The major difference between Git and any other VCS (Subversion and friends included) is the way Git thinks about its data. Conceptually, most other systems store information as a list of file-based changes. These systems (CVS, Subversion, Perforce, Bazaar, and so on) think of the information they keep as a set of files and the changes made to each file over time
 
 # Git Commands
 
@@ -23,6 +35,9 @@ This command sets the author name and email address respectively to be used with
 Usage: git init [repository name]
 
 This command is used to start a new repository.
+
+![Image of Git Init](/Dependency/git_init.png)
+
 
 **git clone**
 
