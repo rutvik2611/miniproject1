@@ -119,7 +119,7 @@ Usage: git log –follow[file]
 
 This command lists version history for a file, including the renaming of files also.
 
-![Image of Git Log(/Dependency/git_log.png)
+![Image of Git Log](/Dependency/git_log.png)
 
 **git show**
 
@@ -149,7 +149,7 @@ Usage: git branch -d [branch name]
 
 This command deletes the feature branch.
 
-![Image of Git branch(/Dependency/git_branch.png)
+![Image of Git branch](/Dependency/git_branch.png)
 
 **git checkout**
 
@@ -192,6 +192,8 @@ Usage: git push [variable name] :[branch name]
 This command deletes a branch on your remote repository.
 
 ![Image of Git Push](/Dependency/git_push.png)
+
+![Image of Git Push](/Dependency/git_all1.png)
 
 **git pull**
 
