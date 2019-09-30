@@ -1,21 +1,16 @@
 # GitFlow
 
 
-
-
-
-**What is Git?**
-
-In a nutshell, Git is a Version Control System (VCS). Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-
 **What Is GitFlow?**
 
 GitFlow is a branching model for Git, created by Vincent Driessen. It has attracted a lot of attention because it is very well suited to collaboration and scaling the development team.
 
 **What is Version Control System (VCS)?**
+
 Version control system is a system that records changes to a file or set of files over time so that you can recall specific versions later by using git command or various git tools available online. Suppose you are a developer and want to keep every version of code or after some particular tasks completion a Version Control System (VCS) is very useful tool. It allows you to revert files back to a previous state, compare changes over time, it allow you to take the other developer code changes using git command, see who modified the files over the time, who has done more number of lines of code, various type of statistics on the repository, who has done the code with bug and when, and many more, basically you can entirely do the tracking of the files over the time and go back to any previous changes.
 
 **How does Git record changes over the time work?**
+
 Git story each commit a full copy of all the files, except that, for the content already present in the Git repo, the snapshot will simply point to said content rather than duplicate it. That also means that several files with the same content are stored only once. So a snapshot is basically a commit, referring to the content of a directory structure.
 The major difference between Git and any other VCS (Subversion and friends included) is the way Git thinks about its data. Conceptually, most other systems store information as a list of file-based changes. These systems (CVS, Subversion, Perforce, Bazaar, and so on) think of the information they keep as a set of files and the changes made to each file over time
 
@@ -28,6 +23,7 @@ Usage: git config –-global user.name &quot;[name]&quot;
 Usage: git config –-global user.email &quot;[email address]&quot;
 
 This command sets the author name and email address respectively to be used with your commits.
+
 ![Image of Git Config](/Dependency/git_config.png)
 
 **git init**
@@ -45,6 +41,8 @@ Usage: git clone [url]
 
 This command is used to obtain a repository from an existing URL.
 
+![Image of Git Config](/Dependency/git_config.png)
+
 **git add**
 
 Usage: git add [file]
@@ -56,6 +54,7 @@ Usage: git add \*
 This command adds one or more to the staging area.
 
 ![Image of Git Config](/Dependency/git_add.png)
+
 **git commit**
 
 Usage: git commit -m &quot;[Type in the commit message]&quot;
@@ -81,6 +80,8 @@ Usage: git diff [first branch] [second branch]
 
 This command shows the differences between the two branches mentioned.
 
+![Image of Git Diff](/Dependency/git_diff.png)
+
 **git reset**
 
 Usage: git reset [file]
@@ -99,11 +100,14 @@ Usage: git status
 
 This command lists all the files that have to be committed.
 
+![Image of Git Status](/Dependency/git_status.png)
 **git rm**
 
 Usage: git rm [file]
 
 This command deletes the file from your working directory and stages the deletion.
+
+![Image of Git RM](/Dependency/git_rm.png)
 
 **git log**
 
@@ -115,11 +119,15 @@ Usage: git log –follow[file]
 
 This command lists version history for a file, including the renaming of files also.
 
+![Image of Git Log(/Dependency/git_log.png)
+
 **git show**
 
 Usage: git show [commit]
 
 This command shows the metadata and content changes of the specified commit.
+
+![Image of Git show(/Dependency/git_show.png)
 
 **git tag**
 
@@ -140,6 +148,8 @@ This command creates a new branch.
 Usage: git branch -d [branch name]
 
 This command deletes the feature branch.
+
+![Image of Git branch(/Dependency/git_branch.png)
 
 **git checkout**
 

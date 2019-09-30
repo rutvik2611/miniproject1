@@ -5,13 +5,13 @@
 - [X] Make a new Text File Name: **Vi- Detailed Description**
 - [ ] Make a new Text File Name: **Linux and the basic commands**
 - [X] Make a new Text File Name: **gitFlow**
-- [ ] Keep Adding to this list
+- [ ] ~~ Keep Adding to this list ~~
 
 
 
 ## What File has What
 
-#### Linux and the basic commands
+### Linux and the basic commands
 
 * cd
 * mkdir
@@ -25,7 +25,7 @@
 * Using the tab key to complete file paths
 * Using up and down arrow for history
 
-#### gitFow
+### [GitFlow](https://github.com/rutvik2611/miniproject1/blob/master/GitFlow.md)
 
 * Repository
 * Clone
@@ -40,7 +40,7 @@
 * Status
 * Master Branch
 
-#### Vi- Detailed Description
+### [Vi- Detailed Description](https://github.com/rutvik2611/miniproject1/blob/master/Vi-%20Detailed%20Description.md)
 
 It's History
 
