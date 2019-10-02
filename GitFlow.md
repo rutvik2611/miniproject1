@@ -16,7 +16,7 @@ The major difference between Git and any other VCS (Subversion and friends inclu
 
 # Git Commands
 
-**git config**
+## **git config**
 
 Usage: git config –-global user.name &quot;[name]&quot;
 
@@ -26,7 +26,7 @@ This command sets the author name and email address respectively to be used with
 
 ![Image of Git Config](/Dependency/git_config.png)
 
-**git init**
+## **git init**
 
 Usage: git init [repository name]
 
@@ -35,7 +35,7 @@ This command is used to start a new repository.
 ![Image of Git Init](/Dependency/git_init.png)
 
 
-**git clone**
+## **git clone**
 
 Usage: git clone [url]
 
@@ -43,7 +43,7 @@ This command is used to obtain a repository from an existing URL.
 
 ![Image of Git Config](/Dependency/git_config.png)
 
-**git add**
+## **git add**
 
 Usage: git add [file]
 
@@ -55,7 +55,7 @@ This command adds one or more to the staging area.
 
 ![Image of Git Config](/Dependency/git_add.png)
 
-**git commit**
+## **git commit**
 
 Usage: git commit -m &quot;[Type in the commit message]&quot;
 
@@ -66,7 +66,8 @@ Usage: git commit -a
 This command commits any files you&#39;ve added with the git add command and also commits any files you&#39;ve changed since then.
 
 ![Image of Git Commit](/Dependency/git_commit.png)
-**git diff**
+
+## **git diff**
 
 Usage: git diff
 
@@ -82,7 +83,7 @@ This command shows the differences between the two branches mentioned.
 
 ![Image of Git Diff](/Dependency/git_diff.png)
 
-**git reset**
+## **git reset**
 
 Usage: git reset [file]
 
@@ -94,14 +95,15 @@ This command undoes all the commits after the specified commit and preserves the
 
 Usage: git reset –hard [commit]  This command discards all history and goes back to the specific commit.
 
-**git status**
+## **git status**
 
 Usage: git status
 
 This command lists all the files that have to be committed.
 
 ![Image of Git Status](/Dependency/git_status.png)
-**git rm**
+
+## **git rm**
 
 Usage: git rm [file]
 
@@ -109,7 +111,7 @@ This command deletes the file from your working directory and stages the deletio
 
 ![Image of Git RM](/Dependency/git_rm.png)
 
-**git log**
+## **git log**
 
 Usage: git log
 
@@ -121,7 +123,7 @@ This command lists version history for a file, including the renaming of files a
 
 ![Image of Git Log](/Dependency/git_log.png)
 
-**git show**
+## **git show**
 
 Usage: git show [commit]
 
@@ -129,13 +131,13 @@ This command shows the metadata and content changes of the specified commit.
 
 ![Image of Git show(/Dependency/git_show.png)
 
-**git tag**
+## **git tag**
 
 Usage: git tag [commitID]
 
 This command is used to give tags to the specific commit.
 
-**git branch**
+## **git branch**
 
 Usage: git branch
 
@@ -151,7 +153,7 @@ This command deletes the feature branch.
 
 ![Image of Git branch](/Dependency/git_branch.png)
 
-**git checkout**
+## **git checkout**
 
 Usage: git checkout [branch name]
 
@@ -161,19 +163,22 @@ Usage: git checkout -b [branch name]
 
 This command creates a new branch and also switches to it.
 
-**git merge**
+## **git merge**
 
 Usage: git merge [branch name]
 
 This command merges the specified branch&#39;s history into the current branch.
 
-**git remote**
+![Image of Git Merge](/Dependency/git_merge.png)
+
+
+## **git remote**
 
 Usage: git remote add [variable name] [Remote Server Link]
 
 This command is used to connect your local repository to the remote server.
 
-**git push**
+## **git push**
 
 Usage: git push [variable name] master
 
@@ -195,12 +200,12 @@ This command deletes a branch on your remote repository.
 
 ![Image of Git Push](/Dependency/git_all1.png)
 
-**git pull**
+## **git pull**
 
 Usage: git pull [Repository Link]
 
 This command fetches and merges changes on the remote server to your working directory.
 
-**Credit**
+## **Credit**
 
 [https://dzone.com/articles/top-20-git-commands-with-examples](https://dzone.com/articles/top-20-git-commands-with-examples)

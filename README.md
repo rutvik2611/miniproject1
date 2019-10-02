@@ -5,7 +5,7 @@
 - [X] Make a new Text File Name: **Vi- Detailed Description**
 - [ ] Make a new Text File Name: **Linux and the basic commands**
 - [X] Make a new Text File Name: **gitFlow**
-- [ ] ~~ Keep Adding to this list ~~
+- [ ] ~~Keep Adding to this list~~
 
 
 
