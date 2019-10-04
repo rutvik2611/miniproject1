@@ -3,7 +3,7 @@
 ## **To DO List**
 
 - [X] Make a new Text File Name: **Vi- Detailed Description**
-- [ ] Make a new Text File Name: **Linux and the basic commands**
+- [x] Make a new Text File Name: **Linux and the basic commands**
 - [X] Make a new Text File Name: **gitFlow**
 - [ ] ~~Keep Adding to this list~~
 
@@ -11,7 +11,7 @@
 
 ## What File has What
 
-### Linux and the basic commands
+### [Linux and the basic commands](https://github.com/rutvik2611/miniproject1/blob/master/Linux%20Commands.md)
 
 * cd
 * mkdir
