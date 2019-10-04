@@ -161,6 +161,8 @@ Usage: git checkout -b [branch name]
 
 This command creates a new branch and also switches to it.
 
+![Image of Git Checkout2](/Dependency/git_checkout2.png.png)
+
 **git merge**
 
 Usage: git merge [branch name]
