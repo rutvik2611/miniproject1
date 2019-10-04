@@ -129,7 +129,7 @@ Usage: **git show [commit]**
 
 This command shows the metadata and content changes of the specified commit.
 
-![Image of Git show(/Dependency/git_show.png)
+![Image of Git show](/Dependency/git_show.png)
 
 ## **git tag**
 
@@ -163,7 +163,7 @@ Usage: **git checkout -b [branch name]**
 
 This command creates a new branch and also switches to it.
 
-![Image of Git Checkout2](/Dependency/git_checkout2.png)
+![Image of Git Checkout2](/Dependency/git_checkout.png)
 
 ## **git merge**
 
@@ -209,6 +209,8 @@ This command deletes a branch on your remote repository.
 Usage: **git pull [Repository Link]**
 
 This command fetches and merges changes on the remote server to your working directory.
+
+![Image of Git Pull](/Dependency/git_pull.jpeg)
 
 ## **Credit**
 
