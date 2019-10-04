@@ -118,3 +118,5 @@ z- - Reposition window: cursor at bottom
 Made By:
 Rutvik Patel
 Chinedu Nnaji
+
+# [CLICK HERE TO GO TO README.MD](https://github.com/rutvik2611/miniproject1/blob/master/README.md)

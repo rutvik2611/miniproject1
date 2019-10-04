@@ -215,3 +215,5 @@ This command fetches and merges changes on the remote server to your working dir
 ## **Credit**
 
 [https://dzone.com/articles/top-20-git-commands-with-examples](https://dzone.com/articles/top-20-git-commands-with-examples)
+
+# [CLICK HERE TO GO TO README.MD](https://github.com/rutvik2611/miniproject1/blob/master/README.md)
