@@ -12,56 +12,57 @@ Research and development at Bell Labs (later AT&T) continued, with Unix System L
 
 ## Basic Linux Commands
 
-**cd -**
+## 1. **cd -**
 This is a Unix command that is used to change directory
 
 ![Screenshot of cd command](/Dependency/cd.png)
 
-**mkdir -**
+## 2. **mkdir -**
 This is a Unix command that is used to create or make directory
 
 ![Screenshot of mkdir command](/Dependency/mkdir.png)
 
-**cp -**
+## 3. **cp -**
 This is a Unix command that is used to copy computer files and directories
 
 ![Screenshot of cp command](/Dependency/cp.png)
 
-**pwd -**
+## 4. **pwd -**
 This is a Unix command that is used to print working directory
 
 ![Screenshot of pwd command](/Dependency/pwd.png)
 
-**mv -**
+## 5.**mv -**
 This is a Unix command that moves or rename one or more files or directories. The first screenshot shows a file being moved to a new directory. The second shows a file being rename. These are the primary functions of mv
 
 ![Screenshot of mv command](/Dependency/mv.png)
+
 ![Screenshot of mv command](/Dependency/mv-rename.png)
 
-**rm -**
+## 6. **rm -**
 This a Unix command that removes objects or computer files from a folder or path. This screenshot shows an example of rm being used
 
 ![Screenshot of rm command](/Dependency/rm.png)
 
-**Home directory -**
+## 7. **Home directory -**
 A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system
 ![Screenshot of home directory ](/Dependency/homedirectory.png)
 
-**History Command -**
+## 8. **History Command -**
 The history command works with the command history list. When the command is issued with no options, it prints the history list
 ![Screenshot of history command ](/Dependency/history.png)
 
-**File paths in linux -**
+## 9. **File paths in linux -**
 A file path is the human-readable representation of a file or folder’s location on a computer system. This screenshot shows the file path for this Linux Command file within my computer.
 
 ![Screenshot of file path ](/Dependency/filepath.png)
 
-**Using the tab key to complete file paths -**
+## 10. **Using the tab key to complete file paths -**
 The tab key allows you to complete a file path without having to type it all out.It only works if you are in a directory that has the directory or path you plan to change to. For example, if you are in /Desktop and want to change to /NJIT, you can simply ty NJ and hit tab to complete the directory name /NJIT.
 
 ![Screenshot of tab key being used](/Dependency/tabkey.png)
 
-**Using up and down arrow for history -**
+## 11. **Using up and down arrow for history -**
 The up and down arrow keys allows you retrieve and use commands that you have used in the same Terminal window. Instead of typing a command again, you can simply use either the up or down key to retrieve this command.
 
 ![Screenshot of arrows being used](/Dependency/arrows.png)
