@@ -47,6 +47,10 @@ This a Unix command that removes objects or computer files from a folder or path
 A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system
 ![Screenshot of home directory ](/Dependency/homedirectory.png)
 
+**History Command -**
+The history command works with the command history list. When the command is issued with no options, it prints the history list
+![Screenshot of history command ](/Dependency/history.png)
+
 **File paths in linux -**
 A file path is the human-readable representation of a file or folder’s location on a computer system. This screenshot shows the file path for this Linux Command file within my computer.
 
@@ -61,6 +65,7 @@ The tab key allows you to complete a file path without having to type it all out
 The up and down arrow keys allows you retrieve and use commands that you have used in the same Terminal window. Instead of typing a command again, you can simply use either the up or down key to retrieve this command.
 
 ![Screenshot of arrows being used](/Dependency/arrows.png)
+
 
 
 **Source:* https://www.digitalocean.com/community/tutorials/brief-history-of-linux
