@@ -1,6 +1,6 @@
 # **MiniProject1**
 
-# BY
+# Contributors
 1. Rutvik Patel
 2. Chinedu Nnaji
 
