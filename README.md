@@ -1,5 +1,10 @@
 # **MiniProject1**
 
+# BY
+1. Rutvik Patel
+2. Chinedu Nnaji
+
+
 ## **To DO List**
 
 - [X] Make a new Text File Name: **Vi- Detailed Description**
