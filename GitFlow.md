@@ -18,13 +18,13 @@ Enter a name for your repository (e.g, "Demo") and click Create Repository.
 
 # Step 3: Create a file
 
- Look at the section that starts "...or create a new repository on the command line," and ignore the rest for now.
+Create a new file from terminal and ignore the rest for now.
 
-Open the Terminal program on your computer.
+Open the Terminal program on your PC. 
 
-or on Windows you can use cmd and guid it to the folder where you want the repository.
+or then again on Windows you can utilize cmd and guid it to the organizer where you stored the repo. 
 
-with commands like cd,mkdir and rm.
+with directions like cd,mkdir and rm.
 
 
 ![Image](Dependency/git_guide5.png)
@@ -57,7 +57,8 @@ Then, to tell the Git program you care about this file and want to track any cha
 git add README.md
 
 # Step 4: Make a commit
-So far you've created a file and told Git about it, and now it's time to create a commit. Commit can be thought of as a milestone. Every time you accomplish some work, you can write a Git commit to store that version of your file, so you can go back later and see what it looked like at that point in time. Whenever you make a change to your file, you create a new version of that file, different from the previous one.
+
+So far you've made a document and informed Git concerning it, and now it's an ideal opportunity to make a submit. Submit can be thought of as an achievement. Each time you achieve some work, you can do an git commit  to store that variant of your record, so you can return later and see what it resembled by then. At whatever point you roll out an improvement to your record, you make another rendition of that document, not the same as the past one.
 
 # Step 5: Connect your GitHub repo with your computer
 
