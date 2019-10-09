@@ -47,7 +47,6 @@
 
 ### [Vi- Detailed Description](https://github.com/rutvik2611/miniproject1/blob/master/Vi-%20Detailed%20Description.md)
 
-It's History
-
-What is Vi.
-What are its basic command.
+* It's History
+* What is Vi.
+* What are its basic command.
