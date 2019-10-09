@@ -1,11 +1,11 @@
 # **MiniProject1**
 
-# Contributors
+### Contributors
 1. Rutvik Patel
 2. Chinedu Nnaji
 
 
-## **To DO List**
+## **To Do List**
 
 - [X] Make a new Text File Name: **Vi- Detailed Description**
 - [x] Make a new Text File Name: **Linux and the basic commands**
