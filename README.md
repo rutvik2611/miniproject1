@@ -10,9 +10,6 @@
 - [X] Make a new Text File Name: **Vi- Detailed Description**
 - [x] Make a new Text File Name: **Linux and the basic commands**
 - [X] Make a new Text File Name: **gitFlow**
-- [ ] ~~Keep Adding to this list~~
-
-
 
 ## What File has What
 
