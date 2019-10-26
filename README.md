@@ -48,7 +48,7 @@
 * What is Vi.
 * What are its basic command.
 
-### [Additional terms(miniproject2)](https://github.com/rutvik2611/miniproject1/blob/master/Additional%20terms(miniproject2.md)
+### [Additional terms(miniproject2)](https://github.com/rutvik2611/miniproject1/blob/master/Additional%20terms(miniproject2.md))
 
  * How Python uses Indentation to control Flow
  * Don't Repeat Yourself
