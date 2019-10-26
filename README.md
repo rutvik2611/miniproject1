@@ -37,7 +37,7 @@
 * Merge
 * Checkout
 * Push
-* Pull 
+* Pull
 * Remote Add / Remove / Show
 * Status
 * Master Branch
@@ -47,3 +47,20 @@
 * It's History
 * What is Vi.
 * What are its basic command.
+
+### [Additional terms(miniproject2)](https://github.com/rutvik2611/miniproject1/blob/master/Additional%20terms(miniproject2.md)
+
+ * How Python uses Indentation to control Flow
+ * Don't Repeat Yourself
+ * Design Patterns from Gang of Four
+ * Class
+ * Property/ Attribute
+ * Method
+ * Exception
+ * Unit Test
+ * Constructor
+ * Factory
+ * Decorator
+ * Extend Class
+ * CSV Files
+ * Reading Files
