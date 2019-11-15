@@ -10,7 +10,7 @@ In software engineering, DRY is the principle of reducing repetition in the code
 
 ## 3. **Design Patterns from Gang of Four**
   Design patterns provide solutions to common software design problems. In the case of object-oriented programming, design patterns are generally aimed at solving the problems of object generation and interaction, rather than the larger scale problems of overall software architecture. They give generalised solutions in the form of templates that may be applied to real-world problems. Design patterns are a powerful tool for software developers. However, they should not be seen as prescriptive specifications for software. It is more important to understand the concepts that design patterns describe, rather than memorising their exact classes, methods and properties. It is also important to apply patterns appropriately. Using the incorrect pattern for a situation or applying a design pattern to a trivial solution can overcomplicate your code and lead to maintainability issues.
- 
+
 ![Screenshot Gang of Four ](/Dependency/GOF.png)
 
 ## 4. **Class**
@@ -22,10 +22,10 @@ Instance attributes are owned by the specific instances of a class. This means f
   An object can be a variable, a data structure, a function, or a method, and as such, is a value in memory referenced by an identifier.
 
   In the class-based object-oriented programming paradigm, object refers to a particular instance of a class, where the object can be a combination of variables, functions, and data structures.
-  
+
 ## 6. **Static**
  A static variable is a variable that has been allocated "statically", meaning that its lifetime (or "extent") is the entire run of the program. This is in contrast to shorter-lived automatic variables, whose storage is stack allocated and deallocated on the call stack; and in contrast to objects, whose storage is dynamically allocated and deallocated in heap memory.
- 
+
 ## 7. **Property/ Attribute -**
 In python, everything is an object. And every object has attributes and methods or functions. Attributes are described by data variables for example like name, age, height etc.
 Properties are special kind of attributes which have getter, setter and delete methods like __get__, __set__ and __delete__ methods.
@@ -37,7 +37,7 @@ The method is implicitly used for an object for which it is called.
 The method is accessible to data that is contained within the class
 
 ## 9. **Exception**
-Errors detected during execution are called exceptions and are not unconditionally fatal. Even if a statement or expression is syntactically correct, it may cause an error when an attempt is made to execute it. 
+Errors detected during execution are called exceptions and are not unconditionally fatal. Even if a statement or expression is syntactically correct, it may cause an error when an attempt is made to execute it.
 
 ![Screenshot Exception ](/Dependency/error.png)
 
@@ -68,18 +68,18 @@ Parent classes are normally supersets of something. For example, you might creat
 
 In this case, you build a parent class named Animal and use it to define a child class named Chicken. Of course, you can easily add other child classes after you have Animal in place, such as a Gorilla class. However, for this example, you build just the one parent and one child class.
 
-![Screenshot Class Example ](/Dependency/class.png)
+![Screenshot Extended Class Example ](/Dependency/class1.png)
 
 ## 15. **CSV Files -**
 CSV is a simple file format used to store tabular data, such as a spreadsheet or database.
- 
+
 ## 16. **Reading Files -**
 
-Rather than deal with a list of individual String elements, you can read CSV data directly into a dictionary. 
+Rather than deal with a list of individual String elements, you can read CSV data directly into a dictionary.
 
 ![Screenshot CSV Reader](/Dependency/csvreadr.png)
 
-## References: 
+## References:
 1. https://www.geeksforgeeks.org/statement-indentation-and-comment-in-python/
 2. https://docs.python.org/3/library/unittest.html
 3. https://www.python-course.eu
