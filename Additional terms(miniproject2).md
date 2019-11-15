@@ -64,7 +64,10 @@ Decorators are very powerful and useful tool in Python since it allows programme
 In Decorators, functions are taken as the argument into another function and then called inside the wrapper function.
 
 ## 14. **Extend Class -**
-Classes introduce a little bit of new syntax, three new object types, and some new semantics.
+Parent classes are normally supersets of something. For example, you might create a parent class named Car and then create child classes of various car types around it.
+
+In this case, you build a parent class named Animal and use it to define a child class named Chicken. Of course, you can easily add other child classes after you have Animal in place, such as a Gorilla class. However, for this example, you build just the one parent and one child class.
+
 ![Screenshot Class Example ](/Dependency/class.png)
 
 ## 15. **CSV Files -**
@@ -82,3 +85,4 @@ Rather than deal with a list of individual String elements, you can read CSV dat
 3. https://www.python-course.eu
 4. https://zapier.com/blog/dont-repeat-yourself/
 5. https://www.w3schools.com/python/python_file_open.asp
+6. https://www.dummies.com/programming/python/how-to-extend-classes-to-make-new-classes-in-python/
